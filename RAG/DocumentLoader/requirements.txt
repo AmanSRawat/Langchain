@@ -1,0 +1,21 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+grandalf
+pypdf
+bs4
+
+
+# Groq Integration
+langchain-groq
+groq
+
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+pydantic
