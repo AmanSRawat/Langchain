@@ -1,0 +1,12 @@
+langchian
+langchain_community
+langchain_core
+langchain_groq
+groq
+dotenv
+pydantic
+requests 
+duckduckgo-search
+langchainhub
+langchain-classic
+ddgs
